@@ -1,6 +1,8 @@
 # Pokemon
-Juego tipo pokemon con javascript
+Juego tipo pokemon con javascript.
+
 Animaciones utilizando la librería gsap https://cdnjs.com/libraries/gsap v 3.9.1
+
 Sonido utilizando la librería howler https://cdnjs.com/libraries/howler v 2.2.3
 
 Deploy: https://pokemon-jlg.netlify.app/
